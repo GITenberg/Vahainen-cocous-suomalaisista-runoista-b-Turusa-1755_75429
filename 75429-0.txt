@@ -1,0 +1,982 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75429 ***
+
+language: Finnish
+
+
+
+
+VÄHÄINEN COCOUS SUOMALAISISTA RUNOISTA
+
+(Turusa 1755).
+
+
+Kirj.
+
+GABRIEL JOOSEPINPOIKA CALAMNIUS
+
+
+Käsinkirjoitetun kopion mukaan uudestaan painattanut
+
+Kustavi Grotenfelt
+
+
+
+
+
+Helsingissä,
+Suomalaisen Kirjallisuuden Seura,
+1890.
+
+
+
+
+SISÄLLYS:
+
+Esipuhe.
+Onnen Toivotus meidän Armollisimmalle Kuningaallem matkustaisa
+   Pohjan-maalle..
+Hää-Runot.
+  1:nen.
+  2:nen.
+  3:mas.
+  4:jäs.
+Hautamus-Runot.
+  1:nen.
+  2:nen.
+Onnen Toivotus meidän Corkiammast Kunnioitettavalle Pispallem
+   ja Pro-Canceller Hr Doctor Johan Brovalliukselle.
+Yhden syndymäpäivän päälle.
+Nimipäivänä.
+Onnen Toivotus yhdelle uudelle byggningille.
+Valitus Runot minun nykyisen tilani ylitze.
+
+
+
+
+Esipuhe.
+
+
+V. 1755 ilmestyi Turussa runokokoelma nimellä 'Vähäinen Cocous
+Suomalaisista Runoista', merkillinen jo senkin puolesta että se on
+ainoa laatuansa Suomessa koko Ruotsin vallan aikana. Tekiä oli Kalajoen
+kappalainen Gabriel Joosepinpoika Calamnius, mutta oli edellisenä
+vuonna kuollut, ja arvattavasti se siis oli poika maisteri Gabriel
+Calamnius, hänkin myöhemmin suomalaisena runoilijana esiintynyt, joka
+toimitti mainitun kokoelman painoon. Turun palon jälkeen pidettiin
+kokoelmaa kokonaan kadonneena, siitä tunnettiin ainoastaan kaksi
+Porthanin tutkimuksessaan "De poesi Fennica" painattamaa katkelmaa sekä
+kokonaisuudessaan yksi runo "Kevät keikkuen tuleepi" (josta Porthanin
+toinen katkelma on), painettuna Turun Viikko-Sanomiin 1821 N:o 23.
+Mitään kappaletta itse kirjasta ei vieläkään ole ilmi saatu, kirjaa oli
+luultavasti painettu kovin vähä määrä kappaleita, mutta yksi nähtävästi
+täydellinen käsinkirjoitettu kopio on siitä tallella. Suom. Kirj.
+Seuran kokouksessa 5 p. marrask. 1879 huomautti prof. J. Krohn vainaja
+että kaksitoista kirjoitettua runoa A. Törnuddin viime vuosisadan
+loppuaikoina tehdyssä suomalaisten runojen kopiokirjassa, joka
+säilytetään Seuran kirjastossa, silminnähtävästi on kopio Calamniuksen
+runovihkosta. Tämän todistamiseksi voikin esiintuoda seuraavat seikat.
+Ensimmäinen "Onnen Toivotus meidän Armollisimmalle Kuningaallem
+matkustaisa Pohjan-maalle" on se, josta Porthan on toisen katkelmansa
+painattanut, siteeraten "Cocouksen" ensi sivua, kolmas on "Kevät
+keickuin tuleepi", jota Porthan siteeraa neljänneltä sivulta, kahdeksas
+järjestyksessä "Onnen Toivotus meidän Corkiammast Kunnioitettavalle
+Pispallem ja Pro-Canceller Hr Doctor Johan Broralliuxelle" tiedetään
+kanssa Calamniuksen tekemäksi, ja kaikki nuo kaksitoista runoa
+osoittautuvat useain yhtäläisyyksien kautta sananparsissa ja
+kirjoitustavassa saman miehen tekemiksi. Että toiselta puolen kokoelma
+olisi käsittänyt useampia, kuin nämä kaksitoista runoa, ei ole syytä
+luulla; tämmöinen vihko oli jo laaja kyllä sen ajan olojen mukaan. Jo
+prof. Krohn aikoi uudestaan painattaa runot ja puhui myöhemmin, itse
+ollessaan kiinni muissa tärkeämmissä minunkin kanssani siitä asiasta;
+se on siis hänen aikomuksensa joka nyt niitä painettaessa toteutetaan.
+
+Mitä näitten runojen arvoon tulee, niin se tosin ei ole perin suuri,
+runomitta ei ole virheetöin, jos kohta parempi kuin useilla muilla
+tämän ajan runoniekoila, ja runollinen mielikuvitus on jotenkin kuiva.
+Parhaimpia on tuo usein painettu "Kevät keikkuen tuleepi", vaan ei
+voine kieltää että joku toisistakin sisällää varsin somia käänteitä
+esim. se hääruno, joka alkaa sanoilla "Minä Sauvon Suomalainen,
+Kainuhussa Karjalainen", vaikka tämä runo muuten on kirjoitettu
+sen ajan runohengessä — siinä on puhetta sekä "Astrillista" että
+"nymppheistä". Viimeinen runo "Valitus Runot minun nykyisen tilani
+ylitze", jonka runoilia on tehnyt vanhempana ollessaan sairauden
+aikana, on merkillinen sen puolesta että se niin sisällyksensä kuin
+muotonsa puolesta muistuttaa vanhoja loitsurunoja; kansan kesken ja
+loihtijain suusta on tekiä varmaankin kuullut semmoiset säkeet kuin;
+mist' on pulma puuttununna... tuulestako, tuiskustako... paranna, nijn
+mä paranen.
+
+Lopuksi pari sanaa Gabriel Calamniuksen elämänvaiheista, sen verran
+kuin niitä tunnetaan. Gabriel Calamnios syntyi v. 1695 arvattavasti
+Kalajoella, minne hänen isänsä Jooseppi Gabrielinpoika Calamnius
+(k. 1710) samana vuonna oli kappalaiseksi tulla; äiti oli Elina
+Thorvöst, tunnettua varakasta kauppiassukua Turusta. Ison vihan
+aikana vihittiin hän pakolaisena Strengnäsissä papiksi ja tuli
+rauhan tehtyä ensin apulaiseksi ja v. 1726 käppalaiseksi Kalajoelle.
+Tässä virassa pysyi hän kuolemaansa saakka, vaikka myöhemmin sai
+varakirkkoherran arvonimen. Meni 1720-luvun alkupuolella naimisiin
+Siikajoen kirkkoherran tyttären Katariina Forbuksen kanssa (s. 1691,
+k. 1748). Gabriel Calamnius kuoli Sulvassa 1754 matkalla; ehkäpä hän
+oli käynyt Turussa asti, missä ylempämä mainittu poika samana vuonna
+laakerilla maisteriksi seppelöitiin. Nämät ovat ne kuivat tiedot kuin
+meillä on tämän suomalaisen runoniekan elämästä. Ja kuitenkin on hän
+epäilemättä Mattias Salamniuksen jälkeen etevin nimi, jota Suomen
+taiderunouden historia mainitsee ennen vuotta 1808. Suotava olisi
+sentähden että, jos jossain sattuisi löytymään jos kuinkakin pieniä
+lisiä hänen elämäkertomukseensa taikkapa hänen tekemiänsä kirjoituksia,
+ne otettaisiin talteen ja saatettasiin julkisuuteen.
+
+
+
+
+Onnen Toivotus meidän Armollisimmalle Kuningaallem matkustaisa
+Pohjan-maalle.
+
+
+    Koska kulki Kuningaamme,
+    Adolph Fredric armollinen,
+    Meidän maalla matkusteli
+    Turun kautta Tuckulmihin,
+    Kaicki vereni venähti,
+    Kaicki lijkahti lihani,
+    Että virteni viritin,
+    Kannoin minun kantele
+    Isän istuimen etehen,
+    Kaickivallan kamarihin,
+    Josta anoin andimia,
+    Juuri toivotin todella,
+    Että rakas rauhan Herra,
+    Herra herrain ylitse
+    Andais olla armon oven
+    Aina hänelle avoinna,
+    Antais onnen olkapäille,
+    Rintaraudan rinnoillensa,
+    Ylimmäisen ymmärryxen,
+    Vijden kielen vijsauden,
+    Saada rauhas' rackahasa
+    Eleskellä, oleskella
+    Valtakunnan vartiana,
+    Kaiken kansan katsojana,
+    Estäis kaicki eriseurat
+    Poijes hänen portiltansa,
+    Viholliset vieckahimmat
+    Kauvas hänest' karkotaisi,
+    Pidäis pitkäsä ijäsä,
+    Hänen varsin vahvistaisi
+    Valdakunnan vanhimmaxi,
+    Kuningaaxi kuulusaxi,
+    Pienten printzein keralla,
+    Puolisonsa polvenansa!
+
+
+
+
+ Hää-Runot.
+
+
+
+1:nen.
+
+
+    Nijnkuin arpa astuneepi,
+    Kallon päähän kaljahtaapi,
+    Sinne mielen menemähän,
+    Sinne kynnen kääntymähän
+    Pitääpi pijkaisestakin
+    Kijruhusti, kijtiästi
+    Näisä mailman menoisa,
+    Asioisa ainoisisa.
+    Sijtä sentähden sanovat,
+    Kirjoisansa kirjottavat
+    Otzan työsä oppinehet,
+    Miehet mieltä maistanehet:
+    _Aivos on kungin ajatus._
+    Kukin katzopi kovasti,
+    Vartioipi vakavasti
+    Oman onnensa nojasa
+    Parastansa paljahalta.
+    Näin on kaikisa katalan,
+    Aina ihmisen asiat,
+    Näimbä naimakeinoisakin,
+    Menoisa mainittavisa:
+    Mikä äitihin äkisti
+    Rupiapi rohkiasti,
+    Mikä tyttäreen tytypi;
+    Mikä pijkangin pitäpi
+    Hyvänä hyppyisisänsä,
+    Parembana paarmoisansa
+    Papin parasta tytärtä,
+    Suurta suuresta sugusta;
+    Mikä kultakulkuisia,
+    Konsti korvarengahia
+    Ajattelee aivosansa
+    Ottamahan omaxensa.
+    Mikä ämmän ällittömän
+    Varsin händänsä vanhemman
+    Ottaneepi omaxensa,
+    Riemun kansa ristixensä;
+    Mikä onnetoin osaapi
+    Saada kurjan kumppanixi,
+    Juoppolallin juurtunehen,
+    Villipeuran vijripäisen.
+    Mikä mielen mielisuosin
+    Ripustaapi rickahasen,
+    Huikiasti huutavaisen,
+    Raskaan rahacuckaronsa,
+    Mikä köyhän köytystetyn
+    Vaimoxensa valitseepi.
+
+    Minä jätän järjestänsä
+    Ainosehen arvohonsa
+    Naisenpuolen naimattoman,
+    Mieheld' vaimox valittavan,
+    Jok' on kaunis kannen alta,
+    Siljä, suloinen sisältä
+    Niinkuin näkyypi näöltä,
+    Päältä puolen päälliseltä,
+    Jok' on ahkera avuista,
+    Kuulu, kaunis kunniasta,
+    Siispä katzo kannen alle,
+    Kurkistele kuoren alle,
+    Ennenkuins emännän otat,
+    Vaimon itzelles valitset.
+    Pickuinen pippurinmarja,
+    Kyllä kaunis ja koria,
+    Vasta vatsahan makunsa
+    Anteleopi aivottuusa,
+    Kuin on purtu puolitiehen,
+    Hambahalla haavotettu:
+    Nijn et taida taitavata
+    Sulles vaimoa valita,
+    Jos et tietäne tapoja,
+    Maalla muistane makua.
+    Vaan kuin arpa astuneepi
+    Kallon päähän kaljahtaapi,
+    Sinne mielen menemähän,
+    Sinne kynnen kyntämähän
+    Pitääpi pijkaisestakin
+    Kijruhusti, kijntiästi,
+    Sitten käyköhön käsikin,
+    Kuinga tahtoopi tavasta;
+    Sillä marjat makeimmat
+    Satimehen linnun saavat;
+    Kaunis kacku päältä nähden,
+    Akanainen alta kuoren.
+    Meidän ylkämies yliä,
+    Onnellinen olet sinä,
+    Olet oikein osannut
+    Vaimon sinulles valita.
+    Onni olkohon sinulle
+    Edespäingin ennakolla!
+
+
+
+2:nen.
+
+
+    Kevät keickuin tuleepi.
+    Ilon kansa ilmestyypi.
+    Silloin monta metsämiestä,
+    Somaisinta soidinmiestä
+    Suxen päällä souteleepi,
+    Ennakolta ennättääpi
+    Metsän eläinten edulle,
+    Soittavaisten soittimille;
+    Silloin kaicki kalamiehet
+    Paatin päälle pyytelevät,
+    Verkot vetehen vetävät,
+    Heinickohon heittelevät.
+    Silloin kukat kukoistavat,
+    Vesat puusta putkahtavat,
+    Koko mailma matala
+    Vihottaapi viljan alla,
+    Mitä kuollunna kovalla,
+    Taipununna talven alla,
+    Vijmmeisetkin virkuavat,
+    Yxin madot matavaiset.
+    Silloin limut livertävät,
+    Äänellänsä ääntelevät
+    Aivan isolla ilolla,
+    Lauluvirsill' laitumilla,
+    Pesät pehkuhun tekevät,
+    Yximielin yhdistyvät
+    Kukin kansa kumppaninsa,
+    Luojan laitoxen perähän
+    Sikiöitä sijttelevät,
+    Polvillansa ponnistavat.
+    Kevät keickuin tuleepi,
+    Ilon kansa ilmestypi
+    Meidän ylkämiehellemme
+    Tällä päivällä pyhällä,
+    Jon' on löynnyt löytykäisen,
+    Metzävuohen mieluhisen,
+    Somaisimman soidinlinnun,
+    Meren kuutin kullaisimman,
+    Joll' on silckisilmälaudat,
+    Korvat aivan konstilliset,
+    Joll' on huulet hunajasta,
+    Leuka lemmestä leviä,
+    Joll' on vihko viheriäinen
+    Kainaloisa kannettava,
+    Joke on sormista soreva,
+    Varsin nopsa varpahista.
+    Nyt sijs pidä pivosasi
+    Tämä saatu saalihisi,
+    Pesä pehkuhun rakenna,
+    Kaunis linna linnullesi,
+    Kuutillesi kullaiselle:
+    Johon julkinen Jumala,
+    Meidän ilmoinen Isämme
+    Siunauxen sijrtäköhön,
+    Aina teidän antakohon
+    Onnen ohjisa kävellä,
+    Onnen riemurengahisa
+    Asti aikahan, ikähän,
+    Armostansa aivottuhun.
+
+
+
+3:mas.
+
+
+    Minä Sauvon Suomalainen,
+    Kainuhusa Karjalainen
+    Tulin tiettyhyn talohon,
+    Kaunihisen kartanohon,
+    Kuulin siellä kumman äänen,
+    Tomun totisen tohinan:
+    Vaimo parat paxulliset
+    kuin pörhöiset pirisit,
+    Pijkat pienet pickaraiset
+    Pitkin seiniä sirisit.
+    Kohta kysyin kohtapäätä
+    Tuommoisen tohinan syytä.
+    Johon vastais vaimonpuoli,
+    Marthan töitä toimittava:
+    Nyt on Astrill astununna,
+    Tullut talohon tomulla,
+    Joll' on vasamat vakaiset,
+    Ambuneuvot angarimmat,
+    Joll' on pijkit nijnkuin pijlit,
+    Teräväxi tehdyt nuolet,
+    Nijllä tullut tappeluhun,
+    Kilvan nympphein kisahan,
+    Sysännyt sydämmen kautta
+    Talon tiettyä tytärtä,
+    Karannunna kantapäille,
+    Aivan astunut likelle,
+    Ett' on hieno hiveltynyt,
+    Niveltynyt nilckaluusta
+    Jalka neitoisen jaloimman,
+    Meidän [1] mainittavan:
+    Sijt' on meteli majasa,
+    Sijtä huhu huonehesa,
+    Sijtä kaicku kartanosa.
+    Sill' on meillä mieli panna
+    Ansat Astrillin etehen,
+    Ettei kauvas kartanosta
+    Juoxe aivan joutavasta,[2]x
+    Mutta pahan parantaapi,
+    Syrjän sydämmen sitoopi,
+    Löytä tästä lääkityxen,
+    Hienomman hivellyslangan
+    Sydämmelle särjetylle,
+    Nilkoille nivelletyille.
+
+    Tuosa vijvähdin vähäisen,
+    Katsoin naisten naalan päälle:
+    Katso, Astrill ainokainen
+    Oli saatu satimehen,
+    Kusa luki lääkityxet,
+    Kijvahasti kirjoituxet,
+    Kuinga pitäisi parata
+    Sairahaxi saatettua.
+    Sairas kuin sanoman saapi,
+    Katsomahan kapsahtaapi,
+    Jonga Astrill ainokainen
+    Kohta sivupi sylihin,
+    Kaicki haavat hauteleepi,
+    Kipupaikat parantaapi,
+    Syrjän sydämmen sitopi.
+
+    Tuopa sydäntä sukaisi,
+    Mungin mieltäni mutaisi,
+    Kohta runoihin rupeisin,
+    Lattialla laulamahan:
+    Kiitos Astrill ainokainen
+    Aivan hyvin ambumasta,
+    Paremmin parantamasta,
+    Kiitos kijvahin sodasa,
+    Taitavainen tappelusa!
+    Sijtä kannan kallollesi,
+    Sijtä painan pääsi päälle
+    Kruunun kullasta kudotun,
+    Palmupuista palmikoitun,
+    Toivotan todella sulle!
+    Onnen kaiken olkapäille!
+
+[1] Tässä on yksi sana unohtunut; ehkä nimi: Marian.
+
+[2] Pitää luultavasti olla: joutuisasti.
+
+
+
+4:jäs.
+
+
+    Mitä kuulupi kuilla,
+    Mainitahan meidän maalla,
+    Että poika pohjalainen,
+    Vanha veljeni vakainen,
+    Jok' on ollut oinahana,
+    Kauvan leskenä levännyt,
+    Uskaltaapi ulotella
+    Nuorten neitoston keralle.
+    Kuk' on luontonsa lovesta
+    Nostanunna noihin töihin?
+    Eikö ollunna olisi
+    Hälle paljon parembi
+    Leskimuori muutamambi,
+    Munakuista mukavambi,
+    Joll' on taito taatan kansa,
+    Vanutella vanhan lailla,
+    Ja ei pijkoja pidellä,
+    Neitoisia nenäellä,
+    Joiden kansa kaiketickin
+    Nuoremmilla notkioilla
+    Ombi työtä turkittakin,
+    Holhomista housuttakin?
+    Lieckö Adami ajanut,
+    Eli Luoja laittamunna
+    Tämän miehen tälle tielle,
+    Matkan päälle mainitulle?
+    Luojan luulen laittanehen
+    Miehen nenän neittä kohden,
+    Että saisi saatuansa
+    Häntä halata halulla,
+    Jot' ei kärsi kärrylliset,
+    Leskimuorit muutamaiset.
+	
+    Näille miesten naimateille
+    Mennä pitäisi minungin,
+    Vaan en tiedä kuhun käännyn,
+    Kuhun mieleni menetän:
+    Pijkat mua peljättävät,
+    Lesket vähän lepyttävät.
+    Siis nyt veljeni vakainen,
+    Ennen tielle ennättänyt,
+    Lyckää lyyli minullengin,
+    Ijli pohjasta puhalla,
+    Että rohkian ruveta
+    Etsimähän emäntätä.
+    Vaipan annan vaivastasi,
+    Villavanttuhut valitut,
+    Kuka tiesi kuinga kävis,
+    Kuinga onnesi osaisi,
+    Ettäs saisit saappahatkin
+    Saphianista samalla,
+    Sukat silkistä sulasta,
+    Lijnapaidan lessingistä.
+    Sillä välillä sinulle
+    Toivotan juuri todella,
+    Että nuori neitoisesi,
+    Pickarainen pijkaisesi
+    Sulle onnexi olisi,
+    Mielen mesixi tulisi!
+
+
+
+
+Hautamus-Runot.
+
+
+
+1:nen.
+
+
+    Kov' on laki kuolemalla,
+    Angara armottomalla,
+    Kaicki maahan kaateleepi.
+    Martahaxi maaduttaap
+    Mennä pitääpi minungin,
+    Sinne velka vijmmeisengin,
+    Kuolovaisten kumppanitten.
+    Mikä vaipu vanhembana,
+    Sillä ihmisten elanto
+    Ombi orjuden olento,
+    Nijnkuin koski kuohuvainen,
+    Joutusasti juoxevainen,
+    Nijnkuin mi umbinainen,
+    Vaivan alla vaivaloisen,
+    Nijukuin kuckanen kedolla
+    Vikatteella vijllettävä,
+    Nijnkuin juttu joutavitten
+    Pian puuttuva peräti,
+    Luojan laitoxen perähän,
+    Totisesta duomiosta:
+    Joka saarnaisi sanalla
+    Alla ilman Adamille
+    Paradisin pappilasa,
+    Yrtitarhas' ylpiäsä:
+    Ettäs kuulit kultaistasi,
+    Evaasi emändätäsi,
+    Otit omenan häneltä,
+    Jonga kielsi Kaickivalta,
+    Surma sinun säikyttääpi,
+    Kuolemalla kuolettaapi.
+    Vaan on meille mieluhuinen,
+    Sydämmellemme suloinen,
+    Ettei heitä Herra meitä
+    Kuolemahan kummingahan,
+    Mutta vihdoin virvottaapi,
+    Untumehet uudistaapi,
+    Koska tulee duomiolle
+    Näiden luotuin lopella,
+    Meidän sijrtääpi siamme
+    Tuonne taivahan talohon,
+    Kus' ei kuulu kuolemata,
+    Eikä vaivoist' valiteta,
+    Jos olem' olleet Hänelle
+    Uskolliset, uskovaiset.
+
+    Edesäm' on esimercki
+    Tänäpänä täysi meillä
+    Kovan kuoleman menoista,
+    Valtiojen vaelluxesta,
+    Joka otti omaxehen
+    Yhden herra hengellisen,
+    Saatti muorille murehet
+    Jätti lapset laattiallen
+    Aivan oudox orpanoixi,
+    Seurakunnan semmoisexi.
+    Mutta Herra holhokohon,
+    Turvattomat tuetkohon,
+    Muistakohon murhelliset,
+    Ilon kansa itkeväiset,
+    Auttakohon armostansa
+    Elämähän että myöden
+    Hänen pelvosans pyhäsä,
+    Toivosa totisimmasa,
+    Että saada satamansa
+    Vijmmein taivahan talosa.
+    Kansa isänsä ilosa,
+    Engelitten elannosa!
+
+  Tendimus huc omnes, metam properamus ad unam.
+  Onmia sub leges mors vocat atra suas.
+
+
+
+
+2:nen.
+
+
+    Nijnkuin vaatet vanheneepi,
+    Reikihin repeileepi,
+    Pikaiselta pidettävä,
+    Vaicka kallis kannettava,
+    Nijmbä varsin vanhenevat
+    Parahatkin ihmisparat.
+    Vaatet tosin vanheneva,
+    Reikihin repeilevä,
+    Paickaamalla paratahan,
+    Kerroin kaxin kuroitahan,
+    Vaan ei paikaten parane,
+    Eläm' ihmisen enäne.
+    Nijnkuin hevo hirnuvainen,
+    Kilti, kaunis, karjavainen,[3]
+    Pakeneepi paimenelta,
+    Samuapi saaman tielti
+    Kuin on päästä poisa päitzet,
+    Suitzet suusta kirvonnehet,
+    Nijn on juoxu joutuvainen,
+    Kuolemahan kulkevainen
+    Ilman alla ihmisillä,
+    Tällä tiellä tiettävällä.
+    Hevo tosin hirnuvainen
+    Havikosta haetahan,
+    Takaisin talutetahan
+    Konsti kuonorengahalla,
+    Korennolla koivuisella;
+    Vaan ei taita talutella,
+    Millä kulla kuljetella
+    Joutuisasti juoxevia
+    Ilman alla ihmisiä
+    Tältä tieltä takaperin,
+    Matkalta kaiken mailman.
+
+    Sijt' on meillä vissit merkit,
+    Jokapäivä juoxevista
+    Kuollon kourihin kovihin,
+    Määrähänsä määrättyhyn,
+    Että vaicka vanhemmaxi,
+    Haluisesti harmajaxi,
+    Saapi joku juoxennella,
+    Kijstasansa kilvoitella,
+    Nijn ei juoxe joutavasti,
+    Päästä päätänsä karulla
+    Yxikään yli ikänsä,
+    Määräpäivän määrättynsä.
+    Nijn on täsä tänäpänä
+    Pantu kuollonpaarten päälle
+    Yxi varsin vanha vaari,
+    Kauvan maalla matkustanut,
+    Joka todell' todistaapi,
+    Muille kaikill' muistuttaapi:
+    Juoxe kauvan kuingas tahdot,
+    Matkustele mantereita,
+    Nijn et ohitse osaja
+    Kovan kuollon koppelota.
+
+[3] Luultavasti kirjoitusvirhe: kirjavainen.
+
+
+
+
+Onnen Toivotus meidän Corkiammast Kunnioitettavalle Pispallem
+ja Pro-Canceller Hr Doctor Johan Brovalliukselle.
+
+
+    Koska tutkin Herran töitä
+    Kaiken säädyn katsannosa,
+    Nijn mä lähden laulamahan,
+    Hyvin mielin hyrryttelen,
+    Anon Hältä antimia,
+    Laupioita lahjuxia
+    Turun Pispalle tutulle,
+    Hengellisell' herrallemme,
+    Jok'on vasta valittuna,
+    Kuningaalta kuulutettu,
+    Kaickivallan katzannosta,
+    Asetuxest' armiasta,
+    Valvovaxi vartiaxi
+    Siunattuhun Zionihin.
+
+    Meill' on onni outo ollut,
+    Muutoxia monta tullut
+    Turun Pispain pihasa,
+    Kaunihisa kartanosa.
+    Mutta muista Herra vielä
+    Pispaa pitkällä ijällä
+    Kaitzemahan kansojasi,
+    Laitumella lambaitasi,
+    Rakentamaan radollista
+    Sitä Suomen Zionia,
+    Ettei kaatuis kalliolta,
+    Vanhalta varustetulta,
+    Nijnkuin peri peljättääpi,
+    Kauhiasti katzottaapi
+    Joucko jumalattomitten,
+    Seura sekaseurasitten.
+    Anna Herra aina olla
+    Sanas voiman voimallisen,
+    Ettei heittäis helvetistä
+    Paha henki paulojansa!
+    Ole kilpi kijvahalle,
+    Varjo Pispalle vagalle,
+    Että voisi voimallasi
+    Hävitellä häijyt kaicki,
+    Eroitella eriseurat,
+    Julki jumalattomudet
+    Sinun seurastas pyhästä,
+    Siunatusta Zionista,
+    Panis myöskin paimenia
+    Seurakuntaas semmoisia,
+    Jotk' ei olis ohrapion,
+    Leipäpalan palveliat,
+    Mutta muistaisit sanalla
+    Parahiten panetella
+    Parannusta paatuneille,
+    Vahvistusta vaipuneille,
+    Ynnä yhdes' etzisivät,
+    Kaiketickin katsoisivat
+    Herran pelkua pyhintä,
+    Korkeimman kunniata,
+    Nijnkuin toivottaa todella
+    Suulla sekä sydämmellä
+    Vanha pappi vaipuvainen,
+    Kalajoen kappalainen.
+
+
+
+
+Yhden syndymäpäivän päälle.
+
+
+    Minä laulan laskettelen
+    Yli kaiken ymmärryxen;
+    Syndypäivästä puhelen
+    Yhden syndisen sikiän.
+    Kallijt ovat kaicki päivät,
+    Auringolta annettavat,
+    Vaan on kaikist' kallihimbi
+    Syndypäivä syntyitten,
+    Sepä meille muistuttaapi,
+    Ajatella anteleepi
+    Työtä julkisen Jumalan
+    Ihmellistä ihmisesä,
+    Koska vetääpi kovasta
+    Äitin kohdust' ahtahasta
+    Hänen ilmoihin ilolla,
+    Päivän päästääpi valohon.
+    Sijn' on itku ensimmäinen
+    Ääni äitin helman alla,
+    Kätkyehen kääritähän,
+    Kapalohon kasvamahan,
+    Äitin mustalla mureella,
+    Isän suurella surulla.
+
+    Kuin on vaaxan venähtänyt,
+    Kaunihisti kasvanunna,
+    Käypi poijes kätkyestä
+    Kullkemahan kontallansa,
+    Saapi monta mullahusta,
+    Korvillansa kolahusta.
+
+    Koska jalat juoxemahan
+    Täsä vijmmein virkuavat,
+    Nijn on vaarat vakinaiset,
+    Monet estehet edessä.
+    Joisa kaikis' kanteleepi
+    Herra häntä helmasansa.
+
+    Täm' on alku alkavilla,
+    Syntisillä syntyneillä,
+    Tämä tuoni taivahalta,
+    Kuuluisimman kuningaangin,
+    Asti aikahan, ikähän,
+    Kuin he varsin vahvistuvat
+    Elämähän että myöden
+    Oman onnensa nojasa,
+    Kaickivallan katsannosa,
+    Joka heitä johdattavi,
+    Sitten silmillä pyhillä
+    Asettapi aivottuhun
+    Kungin vihdon virkahansa:
+    Mingä kohta korkiaxi
+    Kuningaaxi kuuluttaapi,
+    Mingä muutoin muutamaxi
+    Hereväxi herraisexi,
+    Mingä antaa alimmaisna
+    Olla orjana ikänsä etc.[4]
+
+    Kuk' ei näistä nähdä taida
+    Imehiä ihmisesä?
+    Kung' ei tule tutkistella
+    Herran töitä tiettäviä?
+    Tät' on kansa kaickinainen
+    Tunnon kansa tutkinehet,
+    Tät' on pakanat pahimmat
+    Arvolla ajatellehet
+    Nijnä päivinä pyhinä,
+    Joina ovat onnellisna.
+    Mailmahan matanehet
+    Äitin syntisen sylistä;
+    Tätä kuulu kuningahat,
+    Herrat suurimmat sugusta
+    Ajall' tälläkin tekevät,
+    Josta pitoja pitävät
+    Syystä syntypäivänsä;
+    Sijspä pitää pienimmängin
+    Meistä tätä muistamahan
+    Kijtoxella kijvahalla
+    Jumalalle julkiselle
+    Edest' ainoan apunsa,
+    Hyvän huolen holhomisen,
+    Äitin sylis' syntyisä,
+    Kamarisa kasvatesa,
+    Edest' elinkautenansa.
+    Kuljettamast' kunnialla,
+    Kaunihisti katzomasta,
+    Vakaisest' varjelemasta
+    Meidän elom', elämämme,
+    Meidän talom', tavaramme.
+
+[4] Tässä näyttää kopion tekiä jättäneen muutamat säkeet kirjoittamatta
+ja sentähäden lisänneen "etc."
+
+
+
+
+Nimipäivänä.
+
+
+    Alusa oli Jumala
+    Itze pappi paradisis',
+    Joka antoi Adamille
+    Ensin nimen ensimmäisen,
+    Adam antoi Evallensa
+    Nimen myöden mieliänsä,
+    Sitten vanhemmat vakaiset
+    Nimcekonsa nimittivät
+    Aivan ehdolla omalla
+    Abramin aikahan asti,
+    Jona alkoi armolijtto,
+    Jona papit, patriarchat
+    Lapset nimeltä nimitit
+    Asti meidän aikahamme,
+    Josta kaicki kastehesa
+    Seurakunnas' syntyväiset,
+    Meidän syntiset sikiät,
+    Saavat saatavan nimensä.
+
+    Mutta mitä minä mainin,
+    Mitä laulan laskettelen?
+    Kaicki kantavat nimeä
+    Ihmisparat ilman alla
+    Kaunit ovat kaicki nimet,
+    Kuningasten kuuluisimmat;
+    Mutta moni muistamatoin
+    Mitä nimi merkitzepi,
+    Hänen häväisee nimensä
+    Elämällä ilkiällä.
+    Evan poika ensimmäinen
+    Kantoi kaunista nimiä,
+    Jong' Fva lujalla luuli
+    Herran miestä merkittevän,
+    Mutta joudui joutavaxi,
+    Veljensä verestäjäxi.
+    Absalomill' annettihin
+    Nimi kuuluisa kotona,
+    Joka meille merkitzepi
+    Rauhan isää rackahinta;
+    Mutta kuule, kuinga kurja
+    Hänen nimensä häväisi,
+    Koska kansasa kapinan
+    Nosti isän istuimesa.
+    Rehabeam on myös ollut
+    Kaunis kaikista nimistä,
+    Joka meille merkitzepi
+    Kansan parast' katzojata,
+    Mutta tuli tuhlajaxi,
+    Kansansa kadottajaxi.
+    Ahaxen angara nimi
+    Sitä miestä merkitzepi,
+    Joka itzens Jumalasa
+    Kijnni kilvalla pitääpi,
+    Mutta kääntyi käskyistänsä
+    Pojes poluille pahoille etc.[5]
+
+    Sijs mä sanon nyt sanalla
+    Sulle, syntisen sikiä,
+    Ettäs otat ojennuxen,
+    Oikeimman opetuxen:
+    Ajattele aina päälle,
+    Mitä nimes merkitzepi,
+    Etzi aina elämällä
+    Kaunistaa kaunis nimesi,
+
+    Niinkuin muinen muutamia
+    Löydyi vanhoista vagoista:
+    Salomoni sai sen nimen,
+    Joka ratki rauhallista
+    Meidän kieles' merkitzepi;
+    Hän on rauhas' rackahasa
+    Ilmi ikänsä elänyt.
+    David, suomexi sanottu
+    Rakastettu rackahalta,
+    Antoi ainoan halunsa,
+    Että olla otollisen
+    Aina alammaisillensa.
+    Hezechias, Herran voima,
+    Varsin vagasti vaelsi
+    Herran teillä tiettävillä
+    Totisesa totudesa etc. etc.[6]
+
+[5], [6] Tässä näyttää kopion tekiä jättäneen muutamat säkeet
+kirjoittamatta ja sentähäden lisänneen "etc."
+
+
+
+
+Onnen Toivotus yhdelle uudelle byggningille.
+
+
+    Siunaa Zionin Jumala,
+    Kaitze kaicki kaunihisti,
+    Anna armo ackunoista,
+    Onni uutehen tupahan!
+    Laita laattia kivestä,
+    Kaicki penkit penningeistä,
+    Ettei kuulus kuuna pänä,
+    Irvistys sinä ikänä,
+    Seinät silkillä sivele,
+    Kaicki saumat kaunistele,
+    Että pitkin pitäisivät,
+    Semmoisina seisoisivat,
+    Katto katzele hyvästi,
+    Varjel' vaarast', vahingosta,
+    Tuulesta, tulipalosta,
+    Onnen kourista kovista,
+    Täytä kirstut kijltävillä,
+    Hopioilla hohtavilla,
+    Kaapi muista murkinalla,
+    Juomakellari keralla,
+    Että aina antamista,
+    Kahden käsin kantamista
+    Olis einetten emällä,
+    Isännällä ilmoisella;
+    Oven olkon vartiana
+    Tobian totinen koira,
+    Jok' ei katzois karsahasti,
+    Eikä hauckuis haikiasti
+    Vierahita vikevitä,
+    Tulevia tuttavia.
+
+
+
+
+Valitus Runot minun nykyisen tilani ylitze.
+
+
+    Mist' on pulma puuttununna,
+    Haava häijy huuleheni?
+    Tuulestako? tuiskustako?
+    Vaango Luojan laitoxesta?
+
+    Mond' on muretta minulla,
+    Monta muutosta muretten
+    Aina kohdannut kovasti,
+    Nuorudesta noudatellut;
+    Mutta mustimman murehen,
+    Koulun kaikista kovimman
+    Tunnen todella olevan
+    Tämän kovan tapauxen,
+    Sill' en löydä lääkitystä
+    Nuoden lääkärten lugusta,
+    Doctoritten toimellisten.
+
+    Monta haavaa haisevaakin,
+    Monta pakua pahinta.
+    Olen itzeckin osannut
+    Muinen poskia parata.
+    Mutt' en onnetoin osaja.
+    Tätä pakua parata.
+
+    Täst' on mulla murhepäivät,
+    Ikävimmät iltakaudet,
+    Istun yxin ystävistä,
+    Eroitettu entisistä,
+    Engä juosta joukon kansa
+    Taida Herran huonehesen,
+    Saarnalla sanelemahan,
+    Lauluisia laskemahan,
+    Sill' on puutos puhehesa,
+    Vaiva aina varpahasa.
+
+    Herra ainoa apuni,
+    Sinä paras parantaja,
+    Sylje sinun sormehesi,
+    Pane pahan haavan päälle,
+    Anna voima voitehille,
+    Väki välikappaleille,
+    Auta vielä viheliäistä,
+    Paranna, nijn mä paranen!
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75429 ***
