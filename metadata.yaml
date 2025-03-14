@@ -1,0 +1,30 @@
+_repo: Vahainen-cocous-suomalaisista-runoista-b-Turusa-1755_75429
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calamnius, Gabriel Joosefinpoika
+    birthdate: 1695
+    deathdate: 1754
+    gutenberg_agent_id: '57993'
+    url: http://www.gutenberg.org/2009/agents/57993
+    wikipedia: https://fi.wikipedia.org/wiki/Gabriel_Calamnius
+description: ''
+gutenberg_issued: '2025-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75429'
+language: fi
+pgterms:marc905: 20250217010323calamnius
+pgterms:marc906: '1890'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bSuomalaisen Kirjallisuuden Seura, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 18th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Vähäinen cocous suomalaisista runoista : $b Turusa 1755'
+url: http://www.gutenberg.org/ebooks/75429
