@@ -1,5 +1,8 @@
 _repo: Vahainen-cocous-suomalaisista-runoista-b-Turusa-1755_75429
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Calamnius, Gabriel Joosefinpoika
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57993
     wikipedia: https://fi.wikipedia.org/wiki/Gabriel_Calamnius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75429#Vahainen-cocous-suomalaisista-runoista-b-Turusa-1755
 gutenberg_issued: '2025-02-20'
 gutenberg_type: Text
 identifiers:
